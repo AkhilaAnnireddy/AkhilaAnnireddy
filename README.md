@@ -101,7 +101,7 @@ I build cloud-native, data-driven applications with reliable backends and intuit
 
 _Auto-generated daily via GitHub Actions_
 
-![Metrics](https://raw.githubusercontent.com/AkhilaAnnireddy/AkhilaAnnireddy/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/AkhilaAnnireddy/AkhilaAnnireddy/master/github-metrics.svg)
 
 ---
 
