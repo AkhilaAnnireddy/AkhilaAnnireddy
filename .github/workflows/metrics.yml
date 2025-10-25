@@ -21,14 +21,11 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Denver
 
-          # Enable useful plugins
           plugin_languages: yes
-          plugin_achievements: yes
           plugin_followup: yes
           plugin_isocalendar: yes
           plugin_lines: yes
 
-          # Optional visual tweaks
           config_display: large
           config_padding: 10, 20
           config_order: base.header, base.activity, base.community, base.repositories, base.metadata
