@@ -87,28 +87,6 @@ Designing scalable, data-driven, and cloud-native systems that bring ideas to li
 
 </div>
 
----
-
-## 🧩 Code & Contribution Metrics
-
-_Auto-generated daily via GitHub Actions_
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkhilaAnnireddy/AkhilaAnnireddy/master/github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
----
-
-## 📈 Code & Contributions
-
-<div align="center">
-
-![GitHub Metrics](https://raw.githubusercontent.com/AkhilaAnnireddy/AkhilaAnnireddy/master/github-metrics.svg)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AkhilaAnnireddy&theme=radical&hide_border=true&background=0D1117&ring=5BCDEC&fire=36BCF7)
-
-</div>
-
 <sub><p align="center">✨ Metrics auto-updated daily via GitHub Actions ✨</p></sub>
 
 ## 📘 Currently Learning
