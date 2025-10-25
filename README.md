@@ -2,118 +2,127 @@
 
 <div align="center">
 
-# Hi, I’m **Akhila Annireddy**
+# 👋 Hi, I'm **Akhila Annireddy**
 
 **Full-Stack Software Engineer** · **Aspiring Machine Learning Engineer**  
-Building cloud-native, data-driven systems with reliable backends and elegant UIs.
+Designing scalable, data-driven, and cloud-native systems that bring ideas to life.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhila%20Annireddy-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilaannireddy)
 [![Email](https://img.shields.io/badge/Email-akhilaannireddy0605%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:akhilaannireddy0605@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1f2937)](#)
-[![Location](https://img.shields.io/badge/Base-Boulder,%20CO-2563EB)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1f2937?logo=firefox&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Base-Boulder,%20CO-2563EB?logo=google-maps&logoColor=white)](#)
 
 </div>
 
 ---
 
-## About Me
+## 🌟 About Me
 
-- Design and develop **end-to-end systems** integrating React/Next.js frontends, Spring Boot or Python backends, and AWS infrastructure.
-- Passionate about **developer experience**, **CI/CD automation**, and **performance optimization**.
-- Exploring **speech-to-text summarization**, **GPU-accelerated inference**, and **real-time analytics dashboards**.
+- Engineer passionate about **building systems that connect intelligence with usability** — from front-end experience to back-end architecture.
+- Skilled in **React, Spring Boot, AWS, and Python-based ML pipelines**.
+- Enthusiastic about **automation, observability, and model deployment**.
+- Currently exploring **speech-to-text summarization** and **real-time ML dashboards**.
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,java,spring,python,flask,django,postgres,mysql,sqlite,redis,aws,docker,terraform,git,linux&perline=11" alt="Tech Stack" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,java,spring,python,flask,django,aws,docker,terraform,postgres,mysql,sqlite,redis,html,css,tailwind,git,linux&perline=10" alt="Tech Stack" />
 </p>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Minutes Maker — Serverless Meeting Summarizer
+### **Minutes Maker — Serverless Meeting Summarizer**
 
 **AWS Lambda · S3 Events · Docker · FLAN-T5 · Terraform · GitHub Actions**
 
-- Built a **serverless summarization pipeline** triggered by file uploads.
-- Packaged ASR + summarization models in Docker for reproducible execution.
-- Automated deployments with **Terraform modules** → 60% faster rollouts.
-- [Repository → Minutes-Maker](https://github.com/AkhilaAnnireddy/Minutes-Maker)
+- Built a **serverless summarization pipeline** triggered by S3 uploads.
+- Packaged ASR + summarization models in Docker for reproducibility.
+- Automated deployments using **Terraform modules** → 60% faster rollouts.
+- 🔗 [View Repository](https://github.com/AkhilaAnnireddy/Minutes-Maker)
 
 ---
 
-### StackStats — Developer Analytics Dashboard
+### **StackStats — Developer Analytics Dashboard**
 
 **React · ChartJS · Stack Overflow API**
 
-- Visualized developer stats such as reputation, tag trends, and activity.
-- Built responsive dashboards using **ChartJS** and modular React components.
-- [Repository → StackStats](https://github.com/AkhilaAnnireddy/stackstats)
+- Visualized developer activity, reputation, and tag trends via live API data.
+- Designed responsive dashboards using modular **React + ChartJS**.
+- 🔗 [View Repository](https://github.com/AkhilaAnnireddy/stackstats)
 
 ---
 
-### EduBlog — Campus Blogging Platform
+### **EduBlog — Campus Blogging Platform**
 
 **Django · Allauth · RBAC · Bootstrap**
 
-- Implemented **role-based permissions** (Faculty / Student / Admin).
-- Built secure authentication and a complete CRUD blog system.
-- [Repository → EduBlog](https://github.com/AkhilaAnnireddy/edublog)
+- Role-based access for Faculty, Students, and Admins.
+- Built secure authentication and feature-rich CRUD blog system.
+- 🔗 [View Repository](https://github.com/AkhilaAnnireddy/edublog)
 
 ---
 
-### Autism Detection using 3D-CNN
+### **Autism Detection using 3D-CNN**
 
 **Python · Keras · fMRI (ABIDE) · 3D CNN**
 
-- Developed a **3D convolutional model** for volumetric fMRI analysis (≈90% accuracy).
-- Published in _Springer – Machine Vision and Augmented Intelligence_.
+- Built a **3D convolutional model** for volumetric fMRI analysis (≈90% accuracy).
+- Published in _Springer – Machine Vision and Augmented Intelligence._
   - eBook ISBN: 978-981-97-4359-9
   - Print ISBN: 978-981-97-4358-2
-- [Repository → autism-detection-3dcnn](https://github.com/AkhilaAnnireddy/autism-detection-3dcnn)
+- 🔗 [View Repository](https://github.com/AkhilaAnnireddy/autism-detection-3dcnn)
 
 ---
 
-## GitHub Stats & Activity
+## 📊 GitHub Insights
 
-![Akhila’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilaAnnireddy&show_icons=true&count_private=true&hide_title=true&theme=radical)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilaAnnireddy&show_icons=true&count_private=true&hide_title=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilaAnnireddy&layout=compact&theme=radical)
 
+</div>
+
 ---
 
-## Contributions & Code Metrics
+## 🧩 Code & Contribution Metrics
 
 _Auto-generated daily via GitHub Actions_
 
-![Metrics](https://raw.githubusercontent.com/AkhilaAnnireddy/AkhilaAnnireddy/master/github-metrics.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AkhilaAnnireddy/AkhilaAnnireddy/master/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 ---
 
-## Contribution Graph Snake
+## 🐍 Contribution Graph Snake
 
-**Dark mode:**  
-![github-snake-dark](https://raw.githubusercontent.com/AkhilaAnnireddy/AkhilaAnnireddy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
-
-## Currently Learning
-
-- Machine Learning for Production — evaluation, prompting, and GPU batch inference
-- Observability — logs, metrics, and traces for distributed services
-- Infrastructure as Code — Terraform and scalable cloud automation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AkhilaAnnireddy/AkhilaAnnireddy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
+</p>
 
 ---
 
-## Connect with Me
+## 📘 Currently Learning
 
-- [LinkedIn](https://www.linkedin.com/in/akhilaannireddy)
-- [Email](mailto:akhilaannireddy0605@gmail.com)
+- **ML for Production** — evaluation, prompting, and GPU batch inference
+- **Observability** — logs, metrics, and tracing for distributed systems
+- **Infrastructure as Code** — Terraform & scalable automation patterns
 
 ---
 
-<sub>Thanks for visiting — happy to connect and collaborate!</sub>
+## 🤝 Connect with Me
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/akhilaannireddy) · [Email](mailto:akhilaannireddy0605@gmail.com)
+
+</div>
+
+---
+
+<p align="center"><sub>✨ Thanks for visiting — always open to connect & collaborate ✨</sub></p>
