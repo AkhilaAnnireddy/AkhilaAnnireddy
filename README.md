@@ -99,9 +99,6 @@ _Auto-generated daily via GitHub Actions_
 **Dark mode:**  
 ![github-snake-dark](https://raw.githubusercontent.com/AkhilaAnnireddy/AkhilaAnnireddy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-**Light mode:**  
-![github-snake](https://raw.githubusercontent.com/AkhilaAnnireddy/AkhilaAnnireddy/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 ---
 
 ## Currently Learning

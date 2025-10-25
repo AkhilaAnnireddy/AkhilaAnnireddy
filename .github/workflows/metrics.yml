@@ -3,10 +3,10 @@ name: Generate GitHub Metrics
 on:
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+  workflow_dispatch:
 
 permissions:
-  contents: write # Needed to push metrics SVG to the repo
+  contents: write
 
 jobs:
   build:
@@ -21,11 +21,13 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Denver
 
+          # Enable only stable plugins
           plugin_languages: yes
           plugin_followup: yes
           plugin_isocalendar: yes
           plugin_lines: yes
 
+          # Optional visual settings
           config_display: large
           config_padding: 10, 20
           config_order: base.header, base.activity, base.community, base.repositories, base.metadata
