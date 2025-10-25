@@ -99,13 +99,17 @@ _Auto-generated daily via GitHub Actions_
 
 ---
 
-## 🐍 Contribution Graph Snake
+## 📈 Code & Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkhilaAnnireddy/AkhilaAnnireddy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
-</p>
+<div align="center">
 
----
+![GitHub Metrics](https://raw.githubusercontent.com/AkhilaAnnireddy/AkhilaAnnireddy/master/github-metrics.svg)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AkhilaAnnireddy&theme=radical&hide_border=true&background=0D1117&ring=5BCDEC&fire=36BCF7)
+
+</div>
+
+<sub><p align="center">✨ Metrics auto-updated daily via GitHub Actions ✨</p></sub>
 
 ## 📘 Currently Learning
 
